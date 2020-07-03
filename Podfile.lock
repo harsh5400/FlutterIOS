@@ -1,0 +1,35 @@
+PODS:
+  - Flutter (1.0.0)
+  - fluttermodule1 (0.0.1):
+    - Flutter
+  - FlutterPluginRegistrant (0.0.1):
+    - Flutter
+  - ObjectiveSugar (1.1.0)
+
+DEPENDENCIES:
+  - Flutter (from `../flutter_module1/.ios/Flutter/engine`)
+  - fluttermodule1 (from `../flutter_module1/.ios/Flutter`)
+  - FlutterPluginRegistrant (from `../flutter_module1/.ios/Flutter/FlutterPluginRegistrant`)
+  - ObjectiveSugar
+
+SPEC REPOS:
+  trunk:
+    - ObjectiveSugar
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: "../flutter_module1/.ios/Flutter/engine"
+  fluttermodule1:
+    :path: "../flutter_module1/.ios/Flutter"
+  FlutterPluginRegistrant:
+    :path: "../flutter_module1/.ios/Flutter/FlutterPluginRegistrant"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  fluttermodule1: 1386efee43d0dd3c83ea6d59942de6956768f895
+  FlutterPluginRegistrant: d59dd07dd90e9c6430996073575a5bd1ea19677e
+  ObjectiveSugar: a6a25f23d657c19df0a0b972466d5b5ca9f5295c
+
+PODFILE CHECKSUM: aa5548f9b736dda6bde1cd2c5e649e409c91a889
+
+COCOAPODS: 1.8.4

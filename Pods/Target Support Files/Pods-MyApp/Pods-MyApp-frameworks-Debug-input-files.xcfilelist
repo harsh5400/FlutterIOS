@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-MyApp/Pods-MyApp-frameworks.sh
+${PODS_ROOT}/../../flutter_module1/.ios/Flutter/engine/Flutter.framework
+${BUILT_PRODUCTS_DIR}/ObjectiveSugar/ObjectiveSugar.framework
+${PODS_ROOT}/../../flutter_module1/.ios/Flutter/App.framework
